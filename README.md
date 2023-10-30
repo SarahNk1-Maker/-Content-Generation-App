@@ -1,1 +1,1 @@
-# -Content-Generation-App
+# Content-Generation-App
